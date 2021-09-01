@@ -1,0 +1,46 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.text-primary {
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.mostrar-registros {
+    margin-top: 30px;
+    padding-bottom: 15px;
+}
+
+.form-select {
+    width: 70px;
+    display: inline;
+}
+
+.table {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.a {
+    padding: .0rem .40rem;
+}
+
+.navbar {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 60px;
+}
+
+.b {
+    margin-left: 10%;
+}
